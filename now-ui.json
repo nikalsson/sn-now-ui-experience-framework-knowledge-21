@@ -1,0 +1,15 @@
+{
+	"components": {
+	    "snc-now-experience-dashboard": {
+	        "innerComponents": [],
+			"uiBuilder": {
+				"associatedTypes": ["global.core", "global.landing-page"],
+				"label": "Now Task Dashboard",
+				"icon": "chart-forecast-fill",
+				"description": "A task dashboard component",
+				"category": "primitives"
+			}
+	    }
+	},
+	"scopeName": "x_snc_now_experi_0"
+}
